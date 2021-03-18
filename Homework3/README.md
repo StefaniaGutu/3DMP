@@ -1,3 +1,5 @@
+Homework 3
+
 - [x] Design a chess pieces set:
   - 1 pawn,
   - 1 knight,
