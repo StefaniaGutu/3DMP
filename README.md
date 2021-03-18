@@ -6,3 +6,4 @@ This course is based on using Fusion 360 and PrusaSlicer for creating 3D project
 
 - [x] Homework 1
 - [x] Homework 2
+- [x] Homework 3
