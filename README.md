@@ -9,4 +9,5 @@ This course is based on using Fusion 360 and PrusaSlicer for creating 3D project
 - [x] Homework 3
 - [x] Homework 4
 
-- [] Butterfly Automata Toy - Final Project
+
+- [ ] Butterfly Automata Toy - Final Project
