@@ -12,7 +12,7 @@ The main components are:
 - butterfly (body, right wing, left wing)
 
 ### How it works?
-When the handle is rotated, the axe and the disks also begin to rotate. They move the butterfly through the connection rods that join them. The rotational motion is transformed into linear motion and the butterfly gives the impression that it is flying.
+When the handle is rotated, the axe and the disks also begin to rotate. They move the butterfly through the connection rods that join them. The rotational motion (revolute join placed on handle) is transformed into linear motion (slider joints placed on connection rods) and the butterfly gives the impression that it is flying.
 
 The component that had to be powered to see the motion was the **handle**, but I simulated the movement using Motion Study. So, you have to play the Motion Study named '***PlayMotion***' to see how the butterfly flap its wings.
 
