@@ -24,7 +24,7 @@ The component that had to be powered to see the motion was the **handle**, but I
 - add joints, joint limits, motion study 
 - at the end, add appearance and render the mechanism
 
-I split the box into two components, so that I don't need additional material when printing it. I tried to do the same for connection rods (to split each connection rod into 2 components), but the movement was affected so I combined each rod into a single component. I split the butterfly into three components: body, right wing, left wing. I combine the body with the middle connection rod. The wings are supported by circles that surround the body of the butterfly. For the axe, I added a contact piece.
+I split the box into two components, so that I don't need additional material when printing it. I tried to do the same for connection rods (to split each connection rod into 2 components), but the movement was affected so I combined each rod into a single component. I split the butterfly into three components: body, right wing, left wing. I combine the body with the middle connection rod. The wings are supported by circles that surround the body of the butterfly. For the axe, I added a contact piece and a lid.
 
 ### File types
 I uploaded the following file types:
